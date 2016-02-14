@@ -4,7 +4,7 @@
 }
 
 body {
-    font-family: YuGothic, "游ゴシック", "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
+    
     background-color: red;
     font-size: 14px;
 }
@@ -47,6 +47,15 @@ section {
 section h3 {
     padding: 10px 0 20px 0;
     letter-spacing: 0.15em;
+}
+
+section h4 {
+    padding: 10px 0 20px 0;
+    letter-spacing: 0.15em;
+}
+
+section li {
+    margin: -20px 0 0 0;    
 }
 
 footer {
